@@ -1,0 +1,9 @@
+coordonee
+paiecash 
+latitude : 4.0591797
+longitude : 9.7026759
+
+
+coordonnees iuc 
+latitude : 4.05918
+longitude : 9.702676
